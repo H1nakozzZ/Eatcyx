@@ -27,7 +27,7 @@
         <div style="padding:5%;margin-top: 200px;background-color: rgba(125, 181, 216, 0.3);">
                 <div id="GameScoreLayer-text"></div>
                 <div id="GameScoreLayer-CPS" class="mb-2 d-flex flex-row justify-content-center text-start">
-                    <div class="col-3">每秒</div>
+                    <div class="col-3">CPS</div>
                     <div class="col-2" id="CPS"></div>
                 </div>
                 <div id="GameScoreLayer-score" class="mb-2 d-flex flex-row justify-content-center text-start">
